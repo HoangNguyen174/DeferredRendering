@@ -1,0 +1,11 @@
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+Debug/
+Release/
+ipch/
+Run_Win32/
